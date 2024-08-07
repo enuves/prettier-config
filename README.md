@@ -33,5 +33,5 @@ module.exports = require("@enuves/prettier-config");
 [npm]: https://stackedit.io/app
 [npm-badge]: https://img.shields.io/npm/v/%40enuves%2Fprettier-config?style=flat
 
-[license]: https://github.com/enuves/prettier-config/blob/master/LICENSE
+[license]: https://github.com/enuves/prettier-config/blob/main/LICENSE
 [license-badge]: https://img.shields.io/github/license/enuves/prettier-config.svg?style=flat
