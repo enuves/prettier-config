@@ -1,5 +1,7 @@
 # @enuves/prettier-config
 
+[![npm][npm-badge]][npm] [![License][license-badge]][license]
+
 > Prettier shareable configuration for Enuves projects
 
 ## Installation
@@ -27,3 +29,9 @@ Or add this to your .prettierrc.js file:
 ```js
 module.exports = require("@enuves/prettier-config");
 ```
+
+[npm]: https://stackedit.io/app
+[npm-badge]: https://img.shields.io/npm/v/%40enuves%2Fprettier-config?style=flat
+
+[license]: https://github.com/enuves/prettier-config/blob/main/LICENSE
+[license-badge]: https://img.shields.io/github/license/enuves/prettier-config.svg?style=flat
