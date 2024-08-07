@@ -1,0 +1,22 @@
+{
+  "name": "@enuves/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier shareable configuration for Enuves projects",
+  "main": "prettier.config.js",
+  "files": [
+    "prettier.config.js"
+  ],
+  "keywords": [
+    "enuves",
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Enuves Tech",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "engines": {
+    "node": ">=18.19.0"
+  }
+}
