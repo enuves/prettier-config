@@ -6,6 +6,9 @@
   "files": [
     "prettier.config.js"
   ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [
     "enuves",
     "prettier",
@@ -22,5 +25,9 @@
   "repository": {
     "type": "git",
     "url": "@enuves/prettier-config"
+  },
+  "homepage": "https://github.com/enuves/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/enuves/prettier-config/issues"
   }
 }
